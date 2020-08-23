@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Adit's Stats](https://github-readme-stats.vercel.app/api?username=aditsrivastava4&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366)
 <!--
 **aditsrivastava4/aditsrivastava4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
