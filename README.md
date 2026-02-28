@@ -10,7 +10,6 @@ I'm a data engineer and full-stack developer with a passion for demystifying com
 
 - 🔭 Currently working as a **Principal Data Engineer** at **Mindbowser Inc.**, leading teams and delivering high-impact data-driven projects
 - 🏢 Previously worked at **Accenture** and **Cognizant** in application development and project roles
-- 🎓 B.E. in Electrical, Electronics & Communications Engineering from **PSIT Kanpur**
 - ✍️ Writing about AI, data engineering, and tech trends on [aditsrivastava.in](https://aditsrivastava.in/)
 - 🌱 Always exploring the latest in AI, machine learning, and cloud technologies
 - 👯 Open to collaborating on data engineering, ML, and open-source projects
