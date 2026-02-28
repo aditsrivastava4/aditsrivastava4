@@ -7,4 +7,3 @@
 - 👯 I'm looking to collaborate on interesting projects
 - 💬 Ask me about software development
 - 🌐 Website: [aditsrivastava.in](https://aditsrivastava.in/)
-- 📫 How to reach me: [aditsriv@live.com](mailto:aditsriv@live.com)
