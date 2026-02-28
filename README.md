@@ -2,7 +2,7 @@
 
 **Principal Data Engineer** at [Mindbowser Inc.](https://www.mindbowser.com/) | Blogger at [Tech and Beyond with Adit](https://aditsrivastava.in/)
 
-I'm a data engineer and full-stack developer with a passion for demystifying complex tech concepts. Through my blog, I share authentic insights — from hands-on AI experiments to personal tech journeys — making the tech landscape accessible for everyone.
+Backend + Data Engineer with 7+ years building scalable APIs, ETL/ingestion pipelines, and production systems in Python (FastAPI/Django/Flask). Strong hands-on experience delivering GenAI/LLM-powered features — document analysis, chat context retention, agent workflows, and risk/escalation classification — integrated into real products. Through my blog, I share authentic insights making the tech landscape accessible for everyone.
 
 ---
 
@@ -13,6 +13,16 @@ I'm a data engineer and full-stack developer with a passion for demystifying com
 - 🌱 Always exploring the latest in AI, machine learning, and cloud technologies
 - 👯 Open to collaborating on data engineering, ML, and open-source projects
 - 💬 Ask me about **Data Engineering, Machine Learning, Python, AI/LLMs, Full-Stack Development**
+
+---
+
+### 🤖 GenAI / LLM Engineering Highlights
+
+- Built LLM-driven document analysis workflows for large files with a focus on reducing token consumption and keeping API response times efficient
+- Implemented chat context retention (patient ↔ provider ↔ assistant) to maintain continuity across interactions
+- Developed an escalation + risk classification engine to detect high-risk patient messages and trigger provider alerts
+- Built agentic recommendation systems (wardrobe → outfit recommendation → "missing item" discovery via web search) using LangChain + OpenAI
+- Applied LLMs for tagging/triage and audit report analysis, supported by reliable ingestion pipelines
 
 ---
 
