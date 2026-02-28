@@ -2,14 +2,17 @@
 
 **Principal Data Engineer** at [Mindbowser Inc.](https://www.mindbowser.com/) | Blogger at [Tech and Beyond with Adit](https://aditsrivastava.in/)
 
+I'm a data engineer and full-stack developer with a passion for demystifying complex tech concepts. Through my blog, I share authentic insights — from hands-on AI experiments to personal tech journeys — making the tech landscape accessible for everyone.
+
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Principal Data Engineer** at **Mindbowser Inc.**, managing project requirements, stakeholder communication, and team delivery
-- 🏢 Previously worked as a **Software Engineer** at **VERTRU** and as a **Trainee** at **Ctrine Engineering Pvt. Ltd.**
-- ✍️ Writing about tech on [aditsrivastava.in](https://aditsrivastava.in/) — covering topics like Kafka, Java, JavaScript, gRPC, GraphQL, and LLMs
-- 💬 Ask me about **Full-Stack Web Development, Django, ReactJS, Web Scraping, NLP, SQL, AWS**
+- 🔭 Currently working as a **Principal Data Engineer** at **Mindbowser Inc.**, leading teams and delivering high-impact data-driven projects
+- ✍️ Writing about AI, data engineering, and tech trends on [aditsrivastava.in](https://aditsrivastava.in/)
+- 🌱 Always exploring the latest in AI, machine learning, and cloud technologies
+- 👯 Open to collaborating on data engineering, ML, and open-source projects
+- 💬 Ask me about **Data Engineering, Machine Learning, Python, AI/LLMs, Full-Stack Development**
 
 ---
 
@@ -17,22 +20,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-blueviolet?style=flat)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
-
-### 💼 Experience
-
-| Role | Company |
-|------|---------|
-| **Principal Data Engineer** | Mindbowser Inc. |
-| **Software Engineer** | VERTRU |
-| **Trainee** | Ctrine Engineering Pvt. Ltd. |
 
 ---
 
@@ -41,22 +33,20 @@
 | Project | Description |
 |---------|-------------|
 | [Battle-of-Models](https://github.com/aditsrivastava4/Battle-of-Models) | Stages debates among Large Language Models, highlighting their distinct reasoning styles and performance |
+| [Adult-Census-Income](https://github.com/aditsrivastava4/Adult-Census-Income) | Data science project analyzing census data for income prediction |
+| [Human-Resources-Analytics](https://github.com/aditsrivastava4/Human-Resources-Analytics) | HR data analytics using data science approaches |
+| [Titanic-Machine-Learning-from-Disaster](https://github.com/aditsrivastava4/Titanic-Machine-Learning-from-Disaster) | Machine learning models to predict Titanic passenger survival |
 
 ---
 
-### ✍️ Blog Topics
+### ✍️ Latest from the Blog
 
-Topics covered on [Tech and Beyond with Adit](https://aditsrivastava.in/):
+- [My Weekend with an AI Agent on a Raspberry Pi: OpenClaw](https://aditsrivastava.in/)
+- [Battle of Models: Tri-Model AI Showdown](https://aditsrivastava.in/)
+- [Exploring Google's NotebookLM: AI-Powered Note-Taking Redefined](https://aditsrivastava.in/)
+- [My Tech Journey: From Curiosity to Leadership](https://aditsrivastava.in/)
 
-- Large Language Models (LLMs) and Content Creation
-- Kafka Streams and Real-Time Data Processing
-- Installing Kafka Without Zookeeper
-- Java Multithreading and the Synchronized Keyword
-- Using gRPC Streams in NodeJS
-- Introduction to GraphQL
-- Building Desktop Apps with HTML, CSS, and JavaScript
-
-▶ [Read more on aditsrivastava.in](https://aditsrivastava.in/)
+▶ [Read more on Tech and Beyond with Adit](https://aditsrivastava.in/)
 
 ---
 
