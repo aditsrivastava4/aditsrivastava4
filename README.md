@@ -50,12 +50,6 @@ I'm a data engineer and full-stack developer with a passion for demystifying com
 
 ---
 
-### 📊 GitHub Stats
-
-![Adit's Stats](https://github-readme-stats.vercel.app/api?username=aditsrivastava4&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366)
-
----
-
 ### 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/-aditsrivastava.in-0A0A0A?style=flat&logo=googlechrome&logoColor=white)](https://aditsrivastava.in/)
