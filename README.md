@@ -16,7 +16,7 @@ I'm a data engineer and full-stack developer with a passion for demystifying com
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
